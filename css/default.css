@@ -1,0 +1,284 @@
+/* General Demo Style */
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?7aptnf');
+	src:url('fonts/icomoon.eot?#iefix7aptnf') format('embedded-opentype'),
+		url('fonts/icomoon.woff?7aptnf') format('woff'),
+		url('fonts/icomoon.ttf?7aptnf') format('truetype'),
+		url('fonts/icomoon.svg?7aptnf#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-clear:before {
+	content: "\e800";
+}
+
+.icon-close:before {
+	content: "\e801";
+}
+
+.icon-cloudy:before {
+	content: "\e802";
+}
+
+.icon-cuny_logo_sq:before {
+	content: "\e803";
+}
+
+.icon-cuny_logo_tx:before {
+	content: "\e804";
+}
+
+.icon-cuny_logo:before {
+	content: "\e805";
+}
+
+.icon-cunyalert_logo:before {
+	content: "\e806";
+}
+
+.icon-cunyathletics_logo:before {
+	content: "\e807";
+}
+
+.icon-cunyfirst_logo:before {
+	content: "\e808";
+}
+
+.icon-doc:before {
+	content: "\e809";
+}
+
+.icon-email:before {
+	content: "\e80a";
+}
+
+.icon-eps:before {
+	content: "\e80b";
+}
+
+.icon-exit:before {
+	content: "\e80c";
+}
+
+.icon-facebook_ko:before {
+	content: "\e80d";
+}
+
+.icon-facebook:before {
+	content: "\e80e";
+}
+
+.icon-flickr_ko:before {
+	content: "\e80f";
+}
+
+.icon-flickr:before {
+	content: "\e810";
+}
+
+.icon-home:before {
+	content: "\e811";
+}
+
+.icon-info:before {
+	content: "\e812";
+}
+
+.icon-instagram_ko:before {
+	content: "\e813";
+}
+
+.icon-instagram:before {
+	content: "\e814";
+}
+
+.icon-jpg:before {
+	content: "\e815";
+}
+
+.icon-less:before {
+	content: "\e816";
+}
+
+.icon-lightning:before {
+	content: "\e817";
+}
+
+.icon-linkedin_ko:before {
+	content: "\e818";
+}
+
+.icon-linkedin:before {
+	content: "\e819";
+}
+
+.icon-listen:before {
+	content: "\e81a";
+}
+
+.icon-login:before {
+	content: "\e81b";
+}
+
+.icon-menu:before {
+	content: "\e81c";
+}
+
+.icon-more:before {
+	content: "\e81d";
+}
+
+.icon-other_ko:before {
+	content: "\e81e";
+}
+
+.icon-other:before {
+	content: "\e81f";
+}
+
+.icon-partial:before {
+	content: "\e820";
+}
+
+.icon-pdf:before {
+	content: "\e821";
+}
+
+.icon-play:before {
+	content: "\e822";
+}
+
+.icon-ppt:before {
+	content: "\e823";
+}
+
+.icon-print:before {
+	content: "\e824";
+}
+
+.icon-raining:before {
+	content: "\e825";
+}
+
+.icon-rss_ko:before {
+	content: "\e826";
+}
+
+.icon-rss:before {
+	content: "\e827";
+}
+
+.icon-search:before {
+	content: "\e828";
+}
+
+.icon-snowing:before {
+	content: "\e829";
+}
+
+.icon-sunny:before {
+	content: "\e82a";
+}
+
+.icon-swipe_d:before {
+	content: "\e82b";
+}
+
+.icon-swipe_l:before {
+	content: "\e82c";
+}
+
+.icon-swipe_r:before {
+	content: "\e82d";
+}
+
+.icon-swipe_u:before {
+	content: "\e82e";
+}
+
+.icon-tap:before {
+	content: "\e82f";
+}
+
+.icon-tumblr_ko:before {
+	content: "\e830";
+}
+
+.icon-tumblr:before {
+	content: "\e831";
+}
+
+.icon-twitter_ko:before {
+	content: "\e832";
+}
+
+.icon-twitter:before {
+	content: "\e833";
+}
+
+.icon-view:before {
+	content: "\e834";
+}
+
+.icon-windy:before {
+	content: "\e835";
+}
+
+.icon-youtube_ko:before {
+	content: "\e836";
+}
+
+.icon-youtube:before {
+	content: "\e837";
+}
+
+
+
+
+
+
+body {
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	color: #b1aea6;
+	background: #fffcf5;
+	min-height: 800px;
+}
+
+
+a {
+	color: #ccc;
+	text-decoration: none;
+}
+
+
+a:hover {
+	color: #fff;
+}
+
+
+
+
+
+@media screen and (max-width: 46.0625em) {
+
+
+}
